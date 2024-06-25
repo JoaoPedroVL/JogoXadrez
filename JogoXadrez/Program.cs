@@ -6,7 +6,7 @@ namespace JogoXadrez
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("ola");
         }
     }
 }
